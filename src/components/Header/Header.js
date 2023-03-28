@@ -16,10 +16,7 @@ const Header = ({ toggle }) => {
             Projects
           </NavLink>
           <NavLink className="menu-item" to="about" smooth={true}>
-            About
-          </NavLink>
-          <NavLink className="menu-item" to="contact" smooth={true}>
-            Contact
+            About / Contact
           </NavLink>
         </NavMenu>
         <NavBtn>
@@ -29,7 +26,7 @@ const Header = ({ toggle }) => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Resume
+            GitHub
           </a>
         </NavBtn>
         <Bars onClick={toggle} />

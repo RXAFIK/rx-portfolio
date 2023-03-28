@@ -14,7 +14,7 @@ function About() {
         <div className="SectionTitle">About Me</div>
         <div className="BigCard">
           <div className="AboutBio">
-            Hello! My name is <strong>RXAFIK</strong>_
+            Hello! My name is <strong>RAFIK</strong>_
              I'm a Co-founder & Developer of Hergol  witch is a tech company with a lot of projects 
             notably HergoFac and HergoTicket.
           </div>

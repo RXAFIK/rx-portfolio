@@ -26,7 +26,7 @@ function ProjectCard() {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Demo ➜
+                view ➜
               </a>
             </BtnGroup>
           </CardRight>

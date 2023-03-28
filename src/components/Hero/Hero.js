@@ -25,7 +25,7 @@ function Hero() {
             <h1>HEY, I'm Rafik Lamari</h1>
             <h5>Web Developer & Cybersec lover</h5>
             <p>
-              I design and code beautifully simple things, and I love what I do.
+              I design, I code  simple things, and I love what I do.
             </p>
           </HeroLeft>
         </HeroWrapper>

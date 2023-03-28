@@ -13,17 +13,12 @@ function Contact() {
     setMessage(event.target.value);
   };
 
-  const handleSubmit = (event) => {
-    event.preventDefault();
-    // Ajoutez ici le code pour envoyer le message
-    setEmail('');
-    setMessage('');
-  };
+
 
   return (
     <section className="contact-me">
       <h1>Contact Me</h1>
-      <form onSubmit={handleSubmit}>
+      <form  action="https://getform.io/f/449af30d-b4d2-4513-8fec-337092ecf921" method="POST">
         <label htmlFor="email">Email:</label>
         <input
           type="email"
@@ -42,15 +37,6 @@ function Contact() {
           required
         />
         <button class="button">Send</button>
-  
-  
-          <div class="loader">
-            <div class="check">
-              <span class="check-one"></span>
-              <span class="check-two"></span>
-            </div>
-           </div>
-  
       </form>
     </section>
   );

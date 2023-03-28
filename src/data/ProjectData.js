@@ -48,7 +48,12 @@ export const stackList = [
   },
   {
     img: "https://res.cloudinary.com/dospfkcxd/image/upload/v1679514944/cli_wjxgjm.png",
-    name: "CLI",
+    name: "CLI/bash",
+    
+  },
+  {
+    img: "https://res.cloudinary.com/dospfkcxd/image/upload/v1680025344/python_vtkiwl.png",
+    name: "Python",
     
   },
 ];
